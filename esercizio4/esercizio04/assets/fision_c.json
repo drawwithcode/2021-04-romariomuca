@@ -1,0 +1,61 @@
+{
+  "numero": 46,
+  "insulti": [
+    {
+      "insulto": "handicappato",
+      "punteggio": 180
+    },
+    {
+      "insulto": "zoppo",
+      "punteggio": 180
+    },
+    {
+      "insulto": "down",
+      "punteggio": 180
+    },
+    {
+      "insulto": "ritardato",
+      "punteggio": 180
+    },
+    {
+      "insulto": "cicciona",
+      "punteggio": 180
+    },
+    {
+      "insulto": "ciccione",
+      "punteggio": 180
+    },
+    {
+      "insulto": "cesso",
+      "punteggio": 180
+    },
+    {
+      "insulto": "balena",
+      "punteggio": 180
+    },
+    {
+      "insulto": "storpio",
+      "punteggio": 180
+    },
+    {
+      "insulto": "minorato",
+      "punteggio": 180
+    },
+    {
+      "insulto": "deficiente",
+      "punteggio": 180
+    },
+    {
+      "insulto": "cretino",
+      "punteggio": 180
+    },
+    {
+      "insulto": "c*******",
+      "punteggio": 180
+    },
+    {
+      "insulto": "mongoloide",
+      "punteggio": 180
+    }
+  ]
+}

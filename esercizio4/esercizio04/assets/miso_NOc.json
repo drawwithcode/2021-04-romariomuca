@@ -1,0 +1,37 @@
+{
+  "numero": 46,
+  "insulti": [
+    {
+      "insulto": "puttana",
+      "punteggio": 20
+    },
+    {
+      "insulto": "troia",
+      "punteggio": 34
+    },
+    {
+      "insulto": "zoccola",
+      "punteggio": 20
+    },
+    {
+      "insulto": "mignotta",
+      "punteggio": 20
+    },
+    {
+      "insulto": "baldracca",
+      "punteggio": 20
+    },
+    {
+      "insulto": "vacca",
+      "punteggio": 20
+    },
+    {
+      "insulto": "cagna",
+      "punteggio": 20
+    },
+    {
+      "insulto": "sgualdrina",
+      "punteggio": 20
+    }
+  ]
+}

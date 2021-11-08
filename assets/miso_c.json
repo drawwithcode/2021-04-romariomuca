@@ -1,0 +1,37 @@
+{
+  "numero": 46,
+  "insulti": [
+    {
+      "insulto": "p******",
+      "punteggio": 180
+    },
+    {
+      "insulto": "t****",
+      "punteggio": 180
+    },
+    {
+      "insulto": "z******",
+      "punteggio": 180
+    },
+    {
+      "insulto": "m*******",
+      "punteggio": 180
+    },
+    {
+      "insulto": "b********",
+      "punteggio": 180
+    },
+    {
+      "insulto": "vacca",
+      "punteggio": 180
+    },
+    {
+      "insulto": "cagna",
+      "punteggio": 180
+    },
+    {
+      "insulto": "sgualdrina",
+      "punteggio": 180
+    }
+  ]
+}
